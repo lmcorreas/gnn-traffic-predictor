@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+data/raw/*
+data/dataset/*
+data/processed/*
+data/ready/*
+output/*
+output_pems_bay/*
+data_pems_bay/dataset/*
+data_pems_bay/processed/*
+data_pems_bay/ready/*
